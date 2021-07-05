@@ -1,3 +1,7 @@
+---
+description: All-In Betting. Can you survive 5 hits?
+---
+
 # \*^ 160 All-In
 
 Summarize how the strategy works

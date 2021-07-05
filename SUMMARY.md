@@ -49,7 +49,11 @@
   * [\*^ The Come Ladder](strategies-2/grinders/the-come-ladder.md)
   * [\*^ Border Strategy](strategies-2/grinders/cold-table-grind.md)
   * [\*^ 555 Don't](strategies-2/grinders/555-dont.md)
+  * [75/3/3](strategies-2/grinders/75-3-3.md)
 * [Growth Mindset](strategies-2/growth-mindset.md)
+* [Side Bets](strategies-2/side-bets/README.md)
+  * [Never Lose Again](strategies-2/side-bets/never-lose-again.md)
+  * [Field Reverse Martingale](strategies-2/side-bets/field-reverse-martingale.md)
 
 ## Notes & Stuff <a id="notes-sing-stuff"></a>
 
