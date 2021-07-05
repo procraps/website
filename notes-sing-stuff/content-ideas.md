@@ -57,6 +57,7 @@ description: Brainstorming Topics ...
 ### Coffee and Craps
 
 * All Strategies That I Play: 10 full shooters
+* DGE Challenge
 
 
 
