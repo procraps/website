@@ -54,6 +54,8 @@
 ## Notes & Stuff <a id="notes-sing-stuff"></a>
 
 * [STRATEGY TEMPLATE](notes-sing-stuff/strategy-template.md)
+* [Golden Throws List](notes-sing-stuff/golden-throws-list.md)
+* [Win Craps Scripts](notes-sing-stuff/win-craps-scripts.md)
 * [Production Notes](notes-sing-stuff/production-notes.md)
 * [Production Schedule](notes-sing-stuff/production-schedule.md)
 * [Upcoming Video Ideas](notes-sing-stuff/content-ideas.md)
