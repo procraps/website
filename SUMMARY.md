@@ -53,6 +53,8 @@
 * [Growth Mindset](strategies-2/growth-mindset.md)
 * [Side Bets](strategies-2/side-bets/README.md)
   * [Never Lose Again](strategies-2/side-bets/never-lose-again.md)
+  * [Duck Duck Goose](strategies-2/side-bets/duck-duck-goose.md)
+  * [$234 High Low](strategies-2/side-bets/usd234-high-low.md)
   * [Field Reverse Martingale](strategies-2/side-bets/field-reverse-martingale.md)
 
 ## Notes & Stuff <a id="notes-sing-stuff"></a>
