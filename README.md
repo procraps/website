@@ -1,6 +1,6 @@
 ---
 description: >-
-  Craps Strategies, Theories, Opinions, and all sorts of other crap you might
+  Craps Strategies, Theories, Opinions, and all sorts of other craps you might
   find interesting
 ---
 

@@ -66,3 +66,7 @@
 * [Production Schedule](notes-sing-stuff/production-schedule.md)
 * [Upcoming Video Ideas](notes-sing-stuff/content-ideas.md)
 
+## Fireside Craps
+
+* [Template](fireside-craps/template.md)
+
