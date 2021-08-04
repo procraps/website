@@ -29,7 +29,7 @@
 
 * [Respect the 7](strategies/understanding-the-7.md)
 * [Building a Strategy: Overview](strategies/building.md)
-* [^ Understanding Exposure](strategies/exposure.md)
+* [Understanding Exposure](strategies/exposure.md)
 * [\*^ Pressing Methods](strategies/pressing-methods.md)
 * [\*^ Tuning/Practicing a Strategy](strategies/tuning-practicing-a-strategy.md)
 * [\*^ Regress to Impress](strategies/regress-to-impress.md)
@@ -57,16 +57,15 @@
   * [$234 High Low](strategies-2/side-bets/usd234-high-low.md)
   * [Field Reverse Martingale](strategies-2/side-bets/field-reverse-martingale.md)
 
+## Fireside Craps
+
 ## Notes & Stuff <a id="notes-sing-stuff"></a>
 
 * [STRATEGY TEMPLATE](notes-sing-stuff/strategy-template.md)
+* [FIRESIDE TEMPLATE](notes-sing-stuff/template.md)
 * [Golden Throws List](notes-sing-stuff/golden-throws-list.md)
 * [Win Craps Scripts](notes-sing-stuff/win-craps-scripts.md)
 * [Production Notes](notes-sing-stuff/production-notes.md)
 * [Production Schedule](notes-sing-stuff/production-schedule.md)
 * [Upcoming Video Ideas](notes-sing-stuff/content-ideas.md)
-
-## Fireside Craps
-
-* [Template](fireside-craps/template.md)
 

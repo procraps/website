@@ -2,7 +2,7 @@
 description: 'If you don''t understand exposure, you''ve got no shot at walking away a winner.'
 ---
 
-# ^ Understanding Exposure
+# Understanding Exposure
 
 ### Why
 
