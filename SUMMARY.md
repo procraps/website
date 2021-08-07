@@ -20,6 +20,7 @@
 ## At The Table
 
 * [^ The Truth About Dice Control](at-the-table/the-truth-about-dice-control.md)
+* [\*^ Trend Spotting](at-the-table/trend-spotting.md)
 * [^ Douche-Baggery](at-the-table/douche-baggery.md)
 
 ## Strategy Building <a id="strategies"></a>
