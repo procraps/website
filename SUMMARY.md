@@ -19,10 +19,7 @@
 
 ## At The Table
 
-* [^ Picking The Right Table](at-the-table/picking-the-right-table.md)
-* [^ Identifying The Shooters](at-the-table/identifying-the-shooters.md)
 * [^ The Truth About Dice Control](at-the-table/the-truth-about-dice-control.md)
-* [\*^ Attack & Defend](at-the-table/goals-and-discipline-...-attack-and-defend.md)
 * [^ Douche-Baggery](at-the-table/douche-baggery.md)
 
 ## Strategy Building <a id="strategies"></a>
@@ -30,7 +27,7 @@
 * [Respect the 7](strategies/understanding-the-7.md)
 * [Building a Strategy: Overview](strategies/building.md)
 * [Understanding Exposure](strategies/exposure.md)
-* [\*^ Pressing Methods](strategies/pressing-methods.md)
+* [Pressing Methods](strategies/pressing-methods.md)
 * [\*^ Tuning/Practicing a Strategy](strategies/tuning-practicing-a-strategy.md)
 * [\*^ Regress to Impress](strategies/regress-to-impress.md)
 * [^House Money](strategies/house-money.md)
@@ -59,6 +56,10 @@
 
 ## Fireside Craps
 
+---
+
+* [Episode 1](episode-1.md)
+
 ## Notes & Stuff <a id="notes-sing-stuff"></a>
 
 * [STRATEGY TEMPLATE](notes-sing-stuff/strategy-template.md)
@@ -68,4 +69,5 @@
 * [Production Notes](notes-sing-stuff/production-notes.md)
 * [Production Schedule](notes-sing-stuff/production-schedule.md)
 * [Upcoming Video Ideas](notes-sing-stuff/content-ideas.md)
+* [Upcoming Podcasts](notes-sing-stuff/upcoming-podcasts.md)
 

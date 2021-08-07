@@ -5,7 +5,7 @@ description: >-
   yes. Let's find the perfect pressing strategy.
 ---
 
-# \*^ Pressing Methods
+# Pressing Methods
 
 ### What
 

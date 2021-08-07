@@ -2,8 +2,6 @@
 
 ### Why
 
-### 
-
 ### How: Tuning and Practicing
 
 ### 5 Steps to tuning your craps strategy

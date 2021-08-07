@@ -32,7 +32,11 @@ description: Brainstorming Topics ...
   * Strategy to teach
   * How to teach
   * How to play while you teach
-* Dice Control
+* Picking the right table \(Basic Scouting\)
+* Advanced Table Scouting
+* Trend Sotting
+* Dice Control Analysis
+  * Chopper Toss
 * Shooter Types and Betting Strategies for each
 * Strategy: House Money
   * Define It
@@ -49,6 +53,10 @@ description: Brainstorming Topics ...
   * Pass
     * Hedging the Craps to protect
     * Playing the Yo to earn
+* How to practice
+  * Betting
+  * Throwing
+  * Payouts
 
 ### Cocktails and Craps
 
@@ -57,6 +65,7 @@ description: Brainstorming Topics ...
 ### Coffee and Craps
 
 * All Strategies That I Play: 10 full shooters
+* Side Bets
 
 
 
