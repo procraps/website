@@ -10,10 +10,6 @@ description: Show overview
 
 asfsadfds
 
-### Storytime
-
-asfsadfds
-
 ### Trendy
 
 Spotting trends and scouting tables
@@ -21,4 +17,8 @@ Spotting trends and scouting tables
 ### You might be a douchebag if ...
 
 alsdfkjsdf
+
+### The world according to John
+
+asfsadfds
 
