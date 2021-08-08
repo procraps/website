@@ -23,5 +23,9 @@ Take 30 progressive cracks at either the 2 or the 12, in levels of 3 bets, each 
 | $11, $11, $11 | $198 | $330 |
 | $12, $12, $12 | $234 | $360 |
 
-NOTE: After the $10 level, your returns begin to diminish, as the bet only wins $30 ... putting more than $30 out there to win $30 is silly. Don't do that beyond roll 36. Or don't do this at all. It's ridiculous
+NOTE: After the $10 level, your returns begin to diminish, as the bet only wins $30 ... putting more than $30 out there to win $30 is silly. 
+
+Don't do that beyond roll 36. 
+
+... Or don't do this at all. It's ridiculous
 

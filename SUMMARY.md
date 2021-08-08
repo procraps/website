@@ -29,8 +29,9 @@
 * [Building a Strategy: Overview](strategies/building.md)
 * [Understanding Exposure](strategies/exposure.md)
 * [Pressing Methods](strategies/pressing-methods.md)
-* [\*^ Tuning/Practicing a Strategy](strategies/tuning-practicing-a-strategy.md)
+* [Pressing with Purpose](strategies/pressing-with-purpose.md)
 * [\*^ Regress to Impress](strategies/regress-to-impress.md)
+* [\*^ Tuning/Practicing a Strategy](strategies/tuning-practicing-a-strategy.md)
 * [^House Money](strategies/house-money.md)
 * [\*^ Playing The Right Strategy](strategies/playing-the-right-strategy.md)
 
