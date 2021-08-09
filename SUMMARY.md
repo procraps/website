@@ -38,16 +38,14 @@
 ## Strategies <a id="strategies-2"></a>
 
 * [Short Game](strategies-2/short-game/README.md)
-  * [\*^ One Hit, Shouldn't Miss](strategies-2/short-game/one-hit-shouldnt-miss.md)
   * [\*^ 160 All-In](strategies-2/short-game/160-all-in.md)
-  * [\*^ Hawaiian Horn](strategies-2/short-game/hawaiian-horn.md)
 * [Grinders](strategies-2/grinders/README.md)
   * [\*^ Hunting with Cheney](strategies-2/grinders/odds-maker.md)
   * [\*^ Coming In All Directions](strategies-2/grinders/coming-in-all-directions.md)
   * [\*^ 160 Knockout](strategies-2/grinders/160-knockout.md)
   * [\*^ The Come Ladder](strategies-2/grinders/the-come-ladder.md)
   * [\*^ Border Strategy](strategies-2/grinders/cold-table-grind.md)
-  * [\*^ 555 Don't](strategies-2/grinders/555-dont.md)
+  * [\*^ Basic Don't](strategies-2/grinders/555-dont.md)
   * [75/3/3](strategies-2/grinders/75-3-3.md)
 * [Growth Mindset](strategies-2/growth-mindset.md)
 * [Side Bets](strategies-2/side-bets/README.md)

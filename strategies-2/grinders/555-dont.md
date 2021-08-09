@@ -1,4 +1,4 @@
-# \*^ 555 Don't
+# \*^ Basic Don't
 
 Summarize how the strategy works
 

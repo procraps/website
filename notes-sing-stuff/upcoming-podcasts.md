@@ -23,6 +23,7 @@
 
 * [ ] Dice Control
 * [ ] Crapless
+* [ ] Team Play
 
 ### YouTuber of the week
 
