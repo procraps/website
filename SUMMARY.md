@@ -66,7 +66,6 @@
 * [FIRESIDE TEMPLATE](notes-sing-stuff/template.md)
 * [Golden Throws List](notes-sing-stuff/golden-throws-list.md)
 * [Win Craps Scripts](notes-sing-stuff/win-craps-scripts.md)
-* [Production Notes](notes-sing-stuff/production-notes.md)
 * [Production Schedule](notes-sing-stuff/production-schedule.md)
 * [Upcoming Video Ideas](notes-sing-stuff/content-ideas.md)
 * [Upcoming Podcasts](notes-sing-stuff/upcoming-podcasts.md)
