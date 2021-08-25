@@ -1,2 +1,0 @@
-# \*^ Trend Spotting
-

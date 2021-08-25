@@ -1,8 +1,8 @@
 ---
-description: Brainstorming Topics ...
+description: What's on tap at Pro Craps?
 ---
 
-# Upcoming Video Ideas
+# Upcoming Videos
 
 ### **Craps in a minute shorts**
 

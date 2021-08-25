@@ -99,7 +99,7 @@ The Rule of 10s is an all-in strategy. We're planning on using the entire sessio
 Bet what you brought, it's the only way to survive the table until it heats up for you and matches up with your strategy.  This holds true for your 401\(g\) account as well. You've got 10 shots in there, plan to use them all to make your goals. 
 
 * Be willing to lose your entire session
-* Be willing to lose your entire alottment on any given shooter
+* Be willing to lose your entire alotment on any given shooter
 * You've budgeted for 10 shooters, use them all
 * ... be willing to lose the entire session 
   * Know that you've got more cracks at it in your 401\(g\)
