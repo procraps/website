@@ -20,7 +20,6 @@
 * [Understanding Exposure](strategies/exposure.md)
 * [Pressing Methods](strategies/pressing-methods.md)
 * [Pressing with Purpose](strategies/pressing-with-purpose.md)
-* [\*^ Regress to Impress](strategies/regress-to-impress.md)
 
 ## Strategies <a id="strategies-2"></a>
 
@@ -28,6 +27,22 @@
 * [Grinders](strategies-2/grinders.md)
 * [Growth Mindset](strategies-2/growth-mindset.md)
 * [Side Bets](strategies-2/side-bets.md)
+
+## Dice Control
+
+* [Series Plan](dice-control/series-plan.md)
+* [Goal: 7 Avoidance](dice-control/goal-7-avoidance.md)
+* [Goal: Targeting Numbers](dice-control/goal-targeting-numbers.md)
+* [Mechanics of a Perfect Toss](dice-control/mechanics-of-a-perfect-toss.md)
+* [Physics of a Perfect Toss](dice-control/physics-of-a-perfect-toss.md)
+* [Landing Physics](dice-control/landing-physics.md)
+* [Wall Physics](dice-control/wall-physics.md)
+* [Parr Toss and Physics](dice-control/parr-toss-and-physics.md)
+* [Chopper Toss and Physics](dice-control/chopper-toss-and-physics.md)
+
+## The Chopper
+
+* [Theory and Goals](the-chopper/theory-and-goals.md)
 
 ## Fireside Craps
 
