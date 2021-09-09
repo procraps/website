@@ -31,18 +31,27 @@
 ## Dice Control
 
 * [Series Plan](dice-control/series-plan.md)
-* [Goal: 7 Avoidance](dice-control/goal-7-avoidance.md)
-* [Goal: Targeting Numbers](dice-control/goal-targeting-numbers.md)
-* [Mechanics of a Perfect Toss](dice-control/mechanics-of-a-perfect-toss.md)
-* [Physics of a Perfect Toss](dice-control/physics-of-a-perfect-toss.md)
-* [Landing Physics](dice-control/landing-physics.md)
-* [Wall Physics](dice-control/wall-physics.md)
-* [Parr Toss and Physics](dice-control/parr-toss-and-physics.md)
-* [Chopper Toss and Physics](dice-control/chopper-toss-and-physics.md)
+* [Framing the Issue](dice-control/framing-the-issue.md)
+* [Goal: 7 Avoidance](dice-control/7-avoidance.md)
+* [Goal: Targeting Numbers](dice-control/targeting-numbers.md)
+* [Epic Randomness](dice-control/epic-randomness.md)
+* [Getting to the Back Wall](dice-control/landing-physics.md)
+* [Hitting the Back Wall](dice-control/back-wall-physics.md)
+* [Stopping the dice](dice-control/stopping-the-dice.md)
+* [Unpacking the Study](dice-control/unpacking-the-study.md)
+* [Parr Toss](dice-control/parr-toss.md)
+* [Chopper Toss](dice-control/chopper-toss.md)
 
 ## The Chopper
 
 * [Theory and Goals](the-chopper/theory-and-goals.md)
+* [Basic Training](the-chopper/basic-training.md)
+* [Grip](the-chopper/grip.md)
+* [Release](the-chopper/release.md)
+* [Takeoff](the-chopper/takeoff.md)
+* [Landing](the-chopper/landing.md)
+* [Adjustments](the-chopper/adjustments.md)
+* [Practice](the-chopper/practice.md)
 
 ## Fireside Craps
 

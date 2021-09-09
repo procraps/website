@@ -2,14 +2,21 @@
 
 ### Videos to Produce
 
-1. [ ] **Goal: 7 Avoidance**
-2. [ ] **Goal: Targeting Numbers**
-3. [ ] **Mechanics of a Perfect Toss \(Human Controllable Elements\)**
-4. [ ] **Physics of a Perfect Toss \(At the mercy of science\)**
-5. [ ] **Landing Physics**
-6. [ ] **Wall Physics**
-7. [ ] How does the Parr Toss address the physics?
-8. [ ] How does the Chopper address the physics?
+1. [ ] \#2 - **Goal: 7 Avoidance**
+2. [ ] **\#3 - Goal: Targeting Numbers**
+3. [ ] **\#4 - Epic Randomness - The Physics of a Perfect Toss \(At the mercy of science\)**
+   1. [ ] High level overview of all the things that have to go right ...
+4. [ ] **\#5 - Mechanics of a Perfect Toss : Getting to the back wall**
+5. [ ] **\#6 - Mechanics of a Perfect Toss : Hitting the back wall**
+6. [ ] **\#7 - Mechanics of a Perfect Toss: Stopping the dice off the back wall**
+7. [ ] **\#8 - The Study**
+   1. [ ] Measures 1's and 6's \(off axis\), not 7's
+   2. [ ] Does it actually prove that control is possible \(look at the other \#s\)
+   3. [ ] Does not account for altering speed, adjustments
+8. [ ] Toss Analysis: Parr
+9. [ ] Toss Analysis: Chopper
+10. [ ] Toss Analysis: Rhythm
+11. [ ] Toss Analysis: Other Throws...
 
 
 
@@ -32,21 +39,5 @@
 
 **Agnostics and Non-Believers**
 
-* How do you categorize your view on the practice Dice Control / Influence / Controlled Shooting
-  * Atheist
-  * Skeptic
-  * Hopeful
-* What are your reason's for not "buying in" to dice control
-  * The laws of physics
-  * The back wall and bouncy tables \(physical implements by the casinos\)
-  * Other: \_\_\_\_\_\_\_
-* What do you find most off putting?
-  * The time DC's take to set the dice and throw
-  * Their general attitude
-  *  How they bet
-  * The fact that some of them are trying to profit by selling courses, books, videos
-* What are your thoughts on "Dice Controllers"
-  * a
-  * b
-  * c
+Open forum at Reddit to get a sense of where people are. Will be ignoring all of the one-liner "Sheep/BS/Bogus" comments and focusing those that put some wood behind the arrow
 
