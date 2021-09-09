@@ -10,7 +10,8 @@ description: >-
 
 #### Is every throw random?
 
-* Is this black and white?
+* Yes, of course
+* But is this black and white?
 * Are there degrees of random?
   * How does a dice controller try to overcome randomness?
 
@@ -21,6 +22,7 @@ description: >-
 * The 7
   * Prolonging rolls
   * Gaining an advantage over house edge
+  * Changing the probabilities
 * Targeting numbers specifically
 
 #### Can the dice be controlled?

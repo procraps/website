@@ -32,6 +32,7 @@
 
 * [Series Plan](dice-control/series-plan.md)
 * [Framing the Issue](dice-control/framing-the-issue.md)
+* [The Dice Control Business](dice-control/the-dice-control-business.md)
 * [Goal: 7 Avoidance](dice-control/7-avoidance.md)
 * [Goal: Targeting Numbers](dice-control/targeting-numbers.md)
 * [Epic Randomness](dice-control/epic-randomness.md)

@@ -21,7 +21,7 @@ Imagine both of those scenarios on the come-out rolls and from the dark or light
 
 What happens to probability if you can have an effect on the 7?
 
-* Insert: Win Craps Probablity Screen Here
+> Show the Win Craps Probablity Screen Here and play around with some options, along with the Wizard of Odds edge page
 
 ### What's involved in making this happen?
 
