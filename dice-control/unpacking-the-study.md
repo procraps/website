@@ -2,9 +2,9 @@
 description: What does the Monmouth University tell us about Dice Control
 ---
 
-# Unpacking the Study
+# Unpacking the Studies
 
-The Study: [https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1415&context=grrj](https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1415&context=grrj)
+[https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1415&context=grrj](https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1415&context=grrj)
 
 ### Summary and Major Points
 

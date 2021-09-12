@@ -32,14 +32,14 @@
 
 * [Series Plan](dice-control/series-plan.md)
 * [Framing the Issue](dice-control/framing-the-issue.md)
-* [The Dice Control Business](dice-control/the-dice-control-business.md)
+* [The Case Against Dice Control](dice-control/the-dice-control-business.md)
 * [Goal: 7 Avoidance](dice-control/7-avoidance.md)
 * [Goal: Targeting Numbers](dice-control/targeting-numbers.md)
 * [Epic Randomness](dice-control/epic-randomness.md)
 * [Getting to the Back Wall](dice-control/landing-physics.md)
 * [Hitting the Back Wall](dice-control/back-wall-physics.md)
 * [Stopping the dice](dice-control/stopping-the-dice.md)
-* [Unpacking the Study](dice-control/unpacking-the-study.md)
+* [Unpacking the Studies](dice-control/unpacking-the-study.md)
 * [Parr Toss](dice-control/parr-toss.md)
 * [Chopper Toss](dice-control/chopper-toss.md)
 

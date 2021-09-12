@@ -8,6 +8,15 @@ description: >-
 
 ### Questions:
 
+#### Correct Terminology
+
+* Dice Controller
+* Dice Influencer
+* Controlled Shooter
+* Experienced Shooter
+* Rhythm Roller
+* Random Roller
+
 #### Is every throw random?
 
 * Yes, of course
@@ -29,8 +38,26 @@ description: >-
 
 > Share some reddit, email, and youtube comments here. Unfortunately lots of negative stuff from this side of the argument.
 
-* If so, how?
-* If not, why not?
+#### The Case For 
+
+* Physics are real
+* Humans are capable of superhuman things
+* Practice makes perfect
+  * Look at Golf, Archery, Goalball
+* The non-quantifyable argument: 
+  * "If it wasn't real, there wouldn't be countermeasures"
+  * And there are MANY countermeasures...
+
+#### The Case Against 
+
+> Share some images of people selling "never lose" systems
+
+* The hardware -- table, back wall makes it actually impossible
+* The time suck at the table
+* Fantasy land
+  * I've tried and failed and have given up on the fantasy
+  * It's a unicorn, plain and simple
+  * Snake oil salesmen
 
 #### Can it be proven either way?
 

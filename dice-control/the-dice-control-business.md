@@ -4,7 +4,23 @@ description: >-
   books, videos and the like.
 ---
 
-# The Dice Control Business
+# The Case Against Dice Control
 
-Not yet sure where to go with this one yet, or where in the sequence it should air
+### Epic Randomness
+
+sdlajdfdfsl
+
+### Time and Annoyance at the Tables
+
+asdlfkjadfs
+
+### Cost: Time, Effort, Equipment
+
+"Never Lose" Gambling systems are all over the place
+
+### The Snake Oil Salesmen
+
+"Never Lose" Gambling systems are all over the place
+
+
 
