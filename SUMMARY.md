@@ -32,7 +32,6 @@
 
 * [Series Plan](dice-control/series-plan.md)
 * [Framing the Issue](dice-control/framing-the-issue.md)
-* [The Case Against Dice Control](dice-control/the-dice-control-business.md)
 * [Goal: 7 Avoidance](dice-control/7-avoidance.md)
 * [Goal: Targeting Numbers](dice-control/targeting-numbers.md)
 * [Epic Randomness](dice-control/epic-randomness.md)
@@ -42,6 +41,7 @@
 * [Unpacking the Studies](dice-control/unpacking-the-study.md)
 * [Parr Toss](dice-control/parr-toss.md)
 * [Chopper Toss](dice-control/chopper-toss.md)
+* [The Case Against Dice Control](dice-control/the-dice-control-business.md)
 
 ## The Chopper
 

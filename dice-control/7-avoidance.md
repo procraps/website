@@ -38,6 +38,10 @@ What happens to probability if you can have an effect on the 7?
 4. Trying to perfect some sort of controlled throw
    1. There are many types
    2. There are many obstacles to overcome
+5. Logging and Adjusting
+   1. Bone Tracker
+   2. Craps Nation KPI Sheet
+   3. Smart Craps \(GTC\)
 
 ### Is it possible?
 
