@@ -51,3 +51,9 @@ What happens to probability if you can have an effect on the 7?
 3. This is climbing Mt Olympus blindfolded, with a broken leg, on crutches, in random weather
 4. Stay Tuned ....
 
+### Video
+
+{% embed url="https://youtu.be/-7FZSLkceEU" %}
+
+
+

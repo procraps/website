@@ -18,8 +18,8 @@
 * [Respect the 7](strategies/understanding-the-7.md)
 * [Building a Strategy: Overview](strategies/building.md)
 * [Understanding Exposure](strategies/exposure.md)
-* [Pressing Methods](strategies/pressing-methods.md)
 * [Pressing with Purpose](strategies/pressing-with-purpose.md)
+* [Pressing Methods](strategies/pressing-methods.md)
 
 ## Strategies <a id="strategies-2"></a>
 

@@ -15,8 +15,17 @@ description: What will we be talking about on Fireside Craps?
 * [ ] Disruptive Betting, Arms, Etc \(General Etiquette\)
 * [ ] Judgemental Bettor
 * [ ] Asshole Don’t Bettors
-* [ ] Asshole Right Bettors
+* [ ] Asshole Right Bettors \(Suck it, Darksider\)
 * [ ] Former/Current Dealers coaching the active dealers
+
+### Just Say No!
+
+* [ ] Crapless Craps
+* [ ] Shitty Payouts
+* [ ] Pig Vigs
+* [ ] Roll To Win
+* [ ] 000 Roulette
+* [ ] 6/5 BJ
 
 ### Trending
 

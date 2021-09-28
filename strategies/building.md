@@ -55,5 +55,9 @@ These are independent vectors or axes of variability.  You can apply the same co
 * Get on your table and roll it out with 100+ hands
 * Write a WinCraps script and run it over 100,000 rolls
 
-### 
+### Video
+
+{% embed url="https://youtu.be/gYTI5AMVJ6I" %}
+
+
 

@@ -146,3 +146,9 @@ Learn to love discipline in every aspect of the gambling experience, specificall
 3. Plan your trips
 4. Look into the future and see how your bankroll and session money can project to grow
 
+### Video
+
+{% embed url="https://youtu.be/24xtnQC6I2k" %}
+
+
+

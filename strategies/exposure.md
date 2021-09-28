@@ -88,3 +88,9 @@ Exposure at the craps table comes in 3 major forms:
     * You're exposed to the 7 for all 8 rolls, though
       * If it shows once, you'd lose $10 and net $4 on the hit
 
+### Video
+
+{% embed url="https://youtu.be/vzM254CIXTI" %}
+
+
+
