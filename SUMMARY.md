@@ -65,5 +65,5 @@
 * [Golden Throws List](notes/golden-throws-list.md)
 * [Production Schedule](notes/production-schedule.md)
 * [Upcoming Videos](notes/content-ideas.md)
-* [Upcoming Podcasts](notes/upcoming-podcasts.md)
+* [Upcoming Podcast Topics](notes/upcoming-podcasts.md)
 
