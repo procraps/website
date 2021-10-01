@@ -43,17 +43,6 @@
 * [Chopper Toss](dice-control/chopper-toss.md)
 * [The Case Against Dice Control](dice-control/the-dice-control-business.md)
 
-## The Chopper
-
-* [Theory and Goals](the-chopper/theory-and-goals.md)
-* [Basic Training](the-chopper/basic-training.md)
-* [Grip](the-chopper/grip.md)
-* [Release](the-chopper/release.md)
-* [Takeoff](the-chopper/takeoff.md)
-* [Landing](the-chopper/landing.md)
-* [Adjustments](the-chopper/adjustments.md)
-* [Practice](the-chopper/practice.md)
-
 ## Fireside Craps
 
 ---
