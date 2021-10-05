@@ -18,30 +18,16 @@ description: >-
 
 **They will also all concede that every throw is random.** Their job is to try and lessen the degree to which things are random by eliminating some of the combinations through technique and physics.
 
-Some quotes need to be shown here, from Cage, George, Toro, and Others, along with things said in the survey
-
 "You can control everything up to the point at which they leave your hand"
 
 "If you can keep them from dancing, they'll sit down for you, hopefully close to the way you let them go"
-
-"A Controlled Shooter is a Shooter that tosses the dice MID-AIR “ On Axis”, with perfect pitch Control & after the dice make initial table contact \( before even kissing, tapping, Caressing, Making love to the backwall\) THAT beautiful, breath-taking toss is subject to randomness in EVERY form, shape, or fashion." \(Cage\)
 
 "Once they hit the table, all you can hope for is that you've set them up to succeed"
 
 "It's in God's hands once they hit the wall"
 
-"Dice only stay “ On Axis” roughly 2-3% of the time after contact with the backwall, NO MATTER how expertly, or softly that you tap that backwall." \(Cage\)
-
 "A set will only make your mechanics shine or hinder your result.  
 Sets are a medium of expression of ones mechanics. Not the guarantee to a successful throw." \(George\)
-
-"Yes there are other factors affecting the final result but if the toss and throwing form is solid it reduces tremendously the randomness. Therefore I whole heartedly agree the set plays a part. It's still part of the equation" \(Jim Spillane\)
-
-"there is no on axis because its impossible for dice to be on axis all the way through the toss. On axis is straight line through both dice, so if either dice is not straight even a hair its already off axis.. But thats just my opinion 😆 I can say I've never seen an on axis toss from anyone I've seen play its always skewed and by the time dice stop they've done multiple pitches. So my definition; I would say on axis is the perception one see's of starting set to resulting ending number, being one of the primary numbers of starting set." \(Arnel\)
-
-"Dice have a way of humbling even the most experienced shooter." \(George\)
-
-"Forget about the diamonds. Nowadays you have 7 rows and 5 rows of diamonds. You can’t exert control over them. Your control ends on landing the dice. It’s regained when the dice settle. And the result interpretation puts you in a position to adjust" \(George\)
 
 "Control is regained when the result is interpreted by the shooter and the adjustment of set \(at its easiest level\) or grip and toss and release and landing zone \(at the highest level\) is adjusted for the next toss" \(George\)
 
