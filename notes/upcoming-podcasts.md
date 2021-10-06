@@ -4,10 +4,17 @@ description: What will we be talking about on Fireside Craps?
 
 # Upcoming Podcast Topics
 
+### Guests
+
+* [ ] George
+* [ ] Paul P
+* [ ] Bryan
+* [ ] Subscribers and Followers ... why does it always have to be someone famous?
+
 ### Stories
 
 * [ ] Anniversary
-* [ ] ”I’m here to make a withdrawl”
+* [ ] ”I’m here to make a withdrawal”
 * [ ] Zach making $750 while I break even
 
 ### You might be a douchebag if…
@@ -35,8 +42,8 @@ description: What will we be talking about on Fireside Craps?
 ### The world according to John
 
 * [ ] Dice Control
-* [ ] Crapless
 * [ ] Team Play
+* [ ] Get more young folks and women into the game!
 
 ### YouTuber of the week
 
