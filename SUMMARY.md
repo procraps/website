@@ -45,7 +45,7 @@
 
 ***
 
-* [Episode 1](episode-1.md)
+* [✅ Episode 1 - Oct 15, 2021](episode-1.md)
 
 ## Notes
 

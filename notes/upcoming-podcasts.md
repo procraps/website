@@ -19,11 +19,15 @@ description: What will we be talking about on Fireside Craps?
 
 ### You might be a douchebag if…
 
-* [ ] Disruptive Betting, Arms, Etc \(General Etiquette\)
+* [ ] Disruptive Betting, Arms, Etc (General Etiquette)
 * [ ] Judgemental Bettor
 * [ ] Asshole Don’t Bettors
-* [ ] Asshole Right Bettors \(Suck it, Darksider\)
+* [ ] Asshole Right Bettors (Suck it, Darksider)
 * [ ] Former/Current Dealers coaching the active dealers
+
+### Craps Nation Callout
+
+* [ ] 555, HCS, Etc
 
 ### Just Say No!
 
@@ -33,11 +37,13 @@ description: What will we be talking about on Fireside Craps?
 * [ ] Roll To Win
 * [ ] 000 Roulette
 * [ ] 6/5 BJ
+* [ ] Forced Line Bets
 
 ### Trending
 
 * [ ] Eyeing up the racks
 * [ ] Tracking what you see
+* [ ] $25 Tables
 
 ### The world according to John
 
@@ -45,11 +51,8 @@ description: What will we be talking about on Fireside Craps?
 * [ ] Team Play
 * [ ] Get more young folks and women into the game!
 
-### YouTuber of the week
-
-* [ ] 555, HCS, Etc
+###
 
 
 
-### 
-
+###
