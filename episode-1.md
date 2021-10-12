@@ -6,14 +6,10 @@ description: Our Inaugural Episode!
 
 ### Story
 
-Our Anniversary
-
 * Cathy wins again. And fast
-* Dealer mistake
-* Good tipping, ATS
-* Dealer mistake in my favor
-* Being cool from the don't
-* Coming back and doubling up
+* Never up, never in
+  * Missed on the ATS
+  * Watched Zach make $750 while I waited
 
 Got a great story of your own? Leave us a voicemail at firesidecraps.com
 
@@ -50,10 +46,3 @@ Strategies to make them feel a little bit less daunting
 
 ### The world according to John
 
-
-
-###
-
-
-
-###
