@@ -15,13 +15,13 @@ description: What will we be talking about on Fireside Craps?
 
 * [ ] Anniversary
 * [ ] ”I’m here to make a withdrawal”
-* [ ] Zach making $750 while I break even
+* [x] The Family: Lucky Cathy, Zach making $750 while I break even
 
 ### You might be a douchebag if…
 
 * [ ] Disruptive Betting, Arms, Etc (General Etiquette)
 * [ ] Judgemental Bettor
-* [ ] Asshole Don’t Bettors
+* [x] Asshole Don’t Bettors
 * [ ] Asshole Right Bettors (Suck it, Darksider)
 * [ ] Former/Current Dealers coaching the active dealers
 
@@ -31,7 +31,7 @@ description: What will we be talking about on Fireside Craps?
 
 ### Just Say No!
 
-* [ ] Crapless Craps
+* [x] Crapless Craps
 * [ ] Shitty Payouts
 * [ ] Pig Vigs
 * [ ] Roll To Win
@@ -43,13 +43,14 @@ description: What will we be talking about on Fireside Craps?
 
 * [ ] Eyeing up the racks
 * [ ] Tracking what you see
-* [ ] $25 Tables
+* [x] $25 Tables
 
 ### The world according to John
 
 * [ ] Dice Control
 * [ ] Team Play
 * [ ] Get more young folks and women into the game!
+* [ ] Is Random Roller or Chicken Feeder Offensive?
 
 ###
 
