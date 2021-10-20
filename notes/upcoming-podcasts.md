@@ -51,6 +51,11 @@ description: What will we be talking about on Fireside Craps?
 * [ ] Team Play
 * [ ] Get more young folks and women into the game!
 * [ ] Is Random Roller or Chicken Feeder Offensive?
+* [ ] Mental Toughness (team play vs solo)
+* [ ] Discipline
+* [ ] Controlling what you can control
+* [ ] Scouting Tables and Players
+* [ ] Starting up a conversation
 
 ###
 
