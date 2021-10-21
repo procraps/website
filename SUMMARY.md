@@ -35,11 +35,11 @@
 * [✅ Goal: 7 Avoidance](dice-control/7-avoidance.md)
 * [✅ Goal: Targeting Numbers](dice-control/targeting-numbers.md)
 * [Epic Randomness](dice-control/epic-randomness.md)
-* [Overcoming Randomness](dice-control/landing-physics.md)
+* [The Case Against Dice Control](dice-control/the-dice-control-business.md)
 * [Unpacking the Studies](dice-control/unpacking-the-study.md)
 * [Parr Toss](dice-control/parr-toss.md)
 * [Chopper Toss](dice-control/chopper-toss.md)
-* [The Case Against Dice Control](dice-control/the-dice-control-business.md)
+* [Overcoming Randomness](dice-control/landing-physics.md)
 
 ## Fireside Craps
 

@@ -6,9 +6,13 @@ description: >-
 
 # The Case Against Dice Control
 
-### Epic Randomness
+### Stanford Wong
 
-sdlajdfdfsl
+[https://www.youtube.com/watch?v=8iWapKXDCH0\&t=50s](https://www.youtube.com/watch?v=8iWapKXDCH0\&t=50s)
+
+### University Study
+
+[https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1415\&context=grrj](https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1415\&context=grrj)
 
 ### Time and Annoyance at the Tables
 
@@ -21,6 +25,4 @@ asdlfkjadfs
 ### The Snake Oil Salesmen
 
 "Never Lose" Gambling systems are all over the place
-
-
 
