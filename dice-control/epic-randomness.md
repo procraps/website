@@ -1,74 +1,119 @@
 ---
-description: 'Mechanics, Physics, and Mentality of the Perfect Toss'
+description: Mechanics, Physics, and Mentality of the Perfect Toss
 ---
 
 # Epic Randomness
 
-An awful lot has to go right for a dice controller to get it done, and the casinos aren't making it easy
+An awful lot has to go right for a dice controller to get it done, and the casinos aren't making it easy. In fact, if you're trying to control the dice, you're at war with the rules, table itself, and the very nature of physics.
 
-1. You cannot slide the dice \(they have to be airborne and bounce\)
+1. You cannot slide the dice (they have to be airborne and bounce)
    1. No 2 table surfaces are alike
    2. They are getting bouncier and bouncier so you cannot simply "learn" how to land
 2. You have to hit the back wall
    1. It's got alligator skin / spikes to ensure randomness
    2. Some places actually force you to hit it hard
-3. Some casinos have banned setting altogether. 
+3. Some casinos have banned setting altogether.&#x20;
 
 > It should be noted, that these measure would not be in place if it were not possible for humans to control the dice.
 
-To overcome randomness, you need perfection. If you start with the assumption that you have a 100% chance to achieve perfection, then you can think about this issue by replacing perfection with bits of random, until there's nothing left. This is the argument against dice control.
+**Dice Controllers will concede that every throw is random. **Their job is to try and lessen the degree to which things are random by eliminating some of the combinations through technique and physics.
 
-### Quotes
+### A War on Many Fronts
 
-**They will also all concede that every throw is random.** Their job is to try and lessen the degree to which things are random by eliminating some of the combinations through technique and physics.
+For the dice to come to rest, a number of things have to happen after they leave your hand
 
-Some quotes need to be shown here, from Cage, George, Toro, and Others, along with things said in the survey
+1. They will hit the table at least once (likely more)
+2. They will hit the back wall
+3. They will hit the table again
+4. They will come to rest, settling on a number
 
-"You can control everything up to the point at which they leave your hand"
+Perfection or any level of control requires you being able to maintain control on the dice during each of those phases.  The trouble is that that each phase impacts the next, so if you're 10% off to start, that gets compounded in the next phase, and so on. And in fact, even perfection at the start can lead to imperfections during the action.
 
-"If you can keep them from dancing, they'll sit down for you, hopefully close to the way you let them go"
+#### The Table
 
-"A Controlled Shooter is a Shooter that tosses the dice MID-AIR “ On Axis”, with perfect pitch Control & after the dice make initial table contact \( before even kissing, tapping, Caressing, Making love to the backwall\) THAT beautiful, breath-taking toss is subject to randomness in EVERY form, shape, or fashion." \(Cage\)
+The table itself is a huge problem. Mainly because no two are alike.  If every table was the same you could potentially "dial in" your toss in terms of velocity, height, angle, etc. But you have these variables and more to contend with. &#x20;
 
-"Once they hit the table, all you can hope for is that you've set them up to succeed"
+Note that these variations are not there to stop dice controllers. Many of them are for cosmetics, utility, fitting in more people, maintainence, etc. But they still cause us problems.
 
-"It's in God's hands once they hit the wall"
+* Length: 10'-16'
+  * SL1 on one table is like SL3 or the hook on another
+* Depth: 11" - 14"
+* Rail width: 18" - 10"
+* Wood Surface type: Pine, Birch, Slate, Glass
 
-"Dice only stay “ On Axis” roughly 2-3% of the time after contact with the backwall, NO MATTER how expertly, or softly that you tap that backwall." \(Cage\)
+#### The Underlayment
 
-"A set will only make your mechanics shine or hinder your result.  
-Sets are a medium of expression of ones mechanics. Not the guarantee to a successful throw." \(George\)
+Again, no two tables are alike. And this is an area where the casinos definitely are experimenting with different surfaces to promote both longevity of the cloth as well as epic randomness.
 
-"Yes there are other factors affecting the final result but if the toss and throwing form is solid it reduces tremendously the randomness. Therefore I whole heartedly agree the set plays a part. It's still part of the equation" \(Jim Spillane\)
+Each of these has different properties that are good for the table's longevity (or not), but also have a completely varying degree of impact on the dice and how they come to rest, and how physics works in the end.
 
-"there is no on axis because its impossible for dice to be on axis all the way through the toss. On axis is straight line through both dice, so if either dice is not straight even a hair its already off axis.. But thats just my opinion 😆 I can say I've never seen an on axis toss from anyone I've seen play its always skewed and by the time dice stop they've done multiple pitches. So my definition; I would say on axis is the perception one see's of starting set to resulting ending number, being one of the primary numbers of starting set." \(Arnel\)
+* Nothing
+* Vinyl
+* Flannel
+* Newspaper
+* Cork
+* Neoprene
+* High Density Closed Cell Foam (Volara)
 
-"Dice have a way of humbling even the most experienced shooter." \(George\)
+You will experience a massively wide variety of speed, sidespin, and a a decreasing ability to stop the dice from rolling around. Many surfaces simply to not absorb energy at all.
 
-"Forget about the diamonds. Nowadays you have 7 rows and 5 rows of diamonds. You can’t exert control over them. Your control ends on landing the dice. It’s regained when the dice settle. And the result interpretation puts you in a position to adjust" \(George\)
+Cork introduces side-spin and low energy absorption
 
-"Control is regained when the result is interpreted by the shooter and the adjustment of set \(at its easiest level\) or grip and toss and release and landing zone \(at the highest level\) is adjusted for the next toss" \(George\)
+Neoprene is hard rubber packed close that rebounds, therefore not absorbing as much energy
 
-"My definition is controlling the dice on the \( X,Y & Z\) axis from starting point to landing or impact. Theoretically this will make the dice land as close to the flat surface as possible, reducing the kinetic energy as they move towards the back wall on first bounce. After impact, if close together **should** rotate forward, kiss the back wall, re-land and settle." \(Toro\) ... emphasis on "Should"
+Closed Cell Foam is basically bubble wrap. There's no surface area to absorb the energy
 
-Can you do all of these things, perfectly ... and still overcome the roadblocks we've already talked about?
+#### The Back Wall
 
-1. Grip
-2. Swing
-3. Release
-4. Launch Angle
-5. Velocity
-6. Landing Descent Angle
-7. Landing Approach Angle
-8. Landing Flat
-9. Landing Distance
-10. Number of rotations
+This is 100% put there to stop controlling the dice. The alligator skin back wall exists to randomize the dice, and every casino has a rule stating that you must hit it. Were it not for this, there's not a person in any capacity at any casino that would argue against dice control.
 
-Other than maybe the grip, every one of those has to be not only perfect, but different for every table and for every inch of distance and position/side you are at the table, even between throws.
+There are only a few suppliers of these, so they are pretty consistent.
 
-### The Goal ...
+* They are hard rubber
+* There are typically 5-7 rows of diamonds
+  * Based on table depth, and how much fascia they are willing to expose
+* The bottom section is angled up to force the dice up into the diamonds and to squirt the dice out on a down hit.
 
-It's an impossible task. Nobody is calling their shots. Remember the actual goal ... reliably make the 7 appear 5/36 times instead of 6.  The closer you get to eliminating the epic randomness, the closer you get to making the goal possible.
+#### Physics
 
-If the steps you take to achieve that goal result in clusters of numbers, that's a nice side benifet, and it potentially makes sense how that could happen, but this is all still random, and we can't forget that.
+There's 3 big concepts here to understand
 
+1. Energy Reduction / Absorption
+2. Angles
+3. Surface Area
+
+#### Energy
+
+For an object to come to rest, a force needs to be applied to it to retard it's acceleration. With dice, that means that as the die hits the table, it's going to do with 4 major factors:
+
+1. Velocity at the time of impact
+2. Angle that it hits the surface at
+3. What % of its surface area makes contact
+4. How much energy is absorbed by the surface
+
+Knowing those factors, you can apply math to see how slow the dice will be moving after impact. And that equation is repeated and repeated until they stop.
+
+Note that from table (potentially multiple times) to the wall and back, acceleration will both decrease and increase depending on what the dice hit (hands, chips, the back wall, etc)
+
+#### Angles
+
+The angle of the dice has an impact in a few areas
+
+1. At impact, the more surface area making impact, the more energy is reduced.&#x20;
+   1. This slows the dice down and potentially reduces spin
+2. How square was the landing?
+   1. Cut edge hit perfectly flat?
+      1. Direction and axis has a chance to be maintained
+   2. Corner Hit?
+      1. Complete loss of directional/axis control
+3. What direction are we hitting the wall?
+   1. Flat/Straight? You might have a chance to hit the diamonds squarely
+   2. On any angle? The diamonds will impart side spin&#x20;
+
+#### Surface Area
+
+1. The amount of surface area that contacts any surface has a direct correlation to the amount of energy reduced from the object in motion
+   1. If you don't land the dice flat, they simply will not slow down in any way you can control
+   2. If they hit the diamonds on the point or a side vs the underside ... again, you will encounter side-spin which is ... random.
+
+###
