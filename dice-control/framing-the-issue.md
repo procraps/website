@@ -4,7 +4,7 @@ description: >-
   dice. Huh? Trust me.
 ---
 
-# Framing the Issue
+# ✅ Framing the Issue
 
 ### Questions:
 
@@ -26,7 +26,7 @@ description: >-
 
 #### What are dice controllers trying to control, exactly, and how?
 
-> This is a great opportunity to share survey results \(70% want to avoid 7, 22% want to target \#s\)
+> This is a great opportunity to share survey results (70% want to avoid 7, 22% want to target #s)
 
 * The 7
   * Prolonging rolls
@@ -38,17 +38,17 @@ description: >-
 
 > Share some reddit, email, and youtube comments here. Unfortunately lots of negative stuff from this side of the argument.
 
-#### The Case For 
+#### The Case For&#x20;
 
 * Physics are real
 * Humans are capable of superhuman things
 * Practice makes perfect
   * Look at Golf, Archery, Goalball
-* The non-quantifyable argument: 
+* The non-quantifyable argument:&#x20;
   * "If it wasn't real, there wouldn't be countermeasures"
   * And there are MANY countermeasures...
 
-#### The Case Against 
+#### The Case Against&#x20;
 
 > Share some images of people selling "never lose" systems
 
@@ -70,6 +70,4 @@ description: >-
 ### Video
 
 {% embed url="https://youtu.be/235eIKoI5Og" %}
-
-
 

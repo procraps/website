@@ -12,7 +12,7 @@ We'll certainly work in some strategy, as that's the nature of winning at this g
 
 What you can expect from our channel?
 
-Honest, opinionated \(yet fact based\) discussions and commentary on
+Honest, opinionated (yet fact based) discussions and commentary on
 
 * Bankroll and Money Management
 * Discipline
@@ -29,12 +29,14 @@ Welcome to Pro Craps!
 
 Check us out on YouTube where we run a few different video series.
 
-{% embed url="https://youtube.com/channel/UCTPOXVt3jOPRS\_Og8U3Ptnw" caption="Pro Craps on YouTube" %}
+{% embed url="https://youtube.com/channel/UCTPOXVt3jOPRS_Og8U3Ptnw" %}
+Pro Craps on YouTube
+{% endembed %}
 
-| Educational Videos | Live Streams |
-| :--- | :--- |
-| [Strategy Building](https://youtube.com/channel/UCTPOXVt3jOPRS_Og8U3Ptnw) | ☕️ Coffee and Craps |
-| Practicing Like a Pro | 🥃 Cocktails and Craps |
+| Educational Videos                                                         | Live Streams           |
+| -------------------------------------------------------------------------- | ---------------------- |
+| [Strategy Building](https://youtube.com/channel/UCTPOXVt3jOPRS\_Og8U3Ptnw) | ☕️ Coffee and Craps    |
+| Practicing Like a Pro                                                      | 🥃 Cocktails and Craps |
 
 For all of our educational videos on strategy building and practice, the show notes and other information and resources can be found on the left. These are released roughly once a week or so, depending on our filming schedule.
 
@@ -54,8 +56,7 @@ Subscribe to our weekly podcast. We go places here that we don't on YouTube. Gre
 
 Have an idea for a show? A new strategy? A great story to share? Let us know...
 
-1. Head to our Podcast and [leave a voice message](https://anchor.fm/firesidecraps/message) 
-2. Head to our [general discussion panel](https://www.youtube.com/channel/UCTPOXVt3jOPRS_Og8U3Ptnw/discussion) on our YouTube channel
+1. Head to our Podcast and [leave a voice message](https://anchor.fm/firesidecraps/message)&#x20;
+2. Head to our [general discussion panel](https://www.youtube.com/channel/UCTPOXVt3jOPRS\_Og8U3Ptnw/discussion) on our YouTube channel
 
-We review everything, so all good ideas \(and yes, even your rants\) have a chance to make it on air!
-
+We review everything, so all good ideas (and yes, even your rants) have a chance to make it on air!

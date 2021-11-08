@@ -1,4 +1,4 @@
-# Goal: 7 Avoidance
+# ✅ Goal: 7 Avoidance
 
 ### Why do we care so much about 7 avoidance?
 
@@ -8,14 +8,14 @@ Every bet has a house edge built into it. The most basic are the pass/come. Thes
 
 If you can either
 
-* Increase the probability of winning 
+* Increase the probability of winning&#x20;
   * e.g. Make the 7 show up 13/72 instead of 12/72
 * Decrease the probability of losing
   * e.g. Make the 7 show up 11/72 instead of 12/72 times
 
 You can erase the edge the casino has and turn that to your advantage.
 
-But that's a big \(very big\) "IF"
+But that's a big (very big) "IF"
 
 Imagine both of those scenarios on the come-out rolls and from the dark or light side. How would that impact your win percentage? The house edge?
 
@@ -41,7 +41,7 @@ What happens to probability if you can have an effect on the 7?
 5. Logging and Adjusting
    1. Bone Tracker
    2. Craps Nation KPI Sheet
-   3. Smart Craps \(GTC\)
+   3. Smart Craps (GTC)
 
 ### Is it possible?
 
@@ -54,6 +54,4 @@ What happens to probability if you can have an effect on the 7?
 ### Video
 
 {% embed url="https://youtu.be/-7FZSLkceEU" %}
-
-
 

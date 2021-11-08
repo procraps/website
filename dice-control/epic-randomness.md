@@ -4,7 +4,7 @@ description: Mechanics, Physics, and Mentality of the Perfect Toss
 
 # Epic Randomness
 
-An awful lot has to go right for a dice controller to get it done, and the casinos aren't making it easy. In fact, if you're trying to control the dice, you're at war with the rules, table itself, and the very nature of physics.
+An awful lot has to go right for a dice controller to get it done, and the casinos aren't making it easy. In fact, if you're trying to control the dice, you're at war with the casino, the rules, table itself, and the very nature of physics.
 
 1. You cannot slide the dice (they have to be airborne and bounce)
    1. No 2 table surfaces are alike
@@ -33,7 +33,7 @@ Perfection or any level of control requires you being able to maintain control o
 
 The table itself is a huge problem. Mainly because no two are alike.  If every table was the same you could potentially "dial in" your toss in terms of velocity, height, angle, etc. But you have these variables and more to contend with. &#x20;
 
-Note that these variations are not there to stop dice controllers. Many of them are for cosmetics, utility, fitting in more people, maintainence, etc. But they still cause us problems.
+Note that these variations are not there to stop dice controllers. Many of them are for cosmetics, utility, fitting in more people, maintenance, etc. But they still cause us problems.
 
 * Length: 10'-16'
   * SL1 on one table is like SL3 or the hook on another
@@ -55,7 +55,7 @@ Each of these has different properties that are good for the table's longevity (
 * Neoprene
 * High Density Closed Cell Foam (Volara)
 
-You will experience a massively wide variety of speed, sidespin, and a a decreasing ability to stop the dice from rolling around. Many surfaces simply to not absorb energy at all.
+You will experience a massively wide variety of speed, side spin, and a a decreasing ability to stop the dice from rolling around. Many surfaces simply to not absorb energy at all.
 
 Cork introduces side-spin and low energy absorption
 
@@ -87,8 +87,12 @@ There's 3 big concepts here to understand
 For an object to come to rest, a force needs to be applied to it to retard it's acceleration. With dice, that means that as the die hits the table, it's going to do with 4 major factors:
 
 1. Velocity at the time of impact
+   1. This tells us how much energy we have to get rid of to stop them
 2. Angle that it hits the surface at
+   1. If you don't land the dice flat, they simply will not slow down in any way you can control
+   2. The more they move, the more chances they have to randomize. Remember, every "hit" impacts the next hit
 3. What % of its surface area makes contact
+   1. This is a factor in retarding the velocity/energy
 4. How much energy is absorbed by the surface
 
 Knowing those factors, you can apply math to see how slow the dice will be moving after impact. And that equation is repeated and repeated until they stop.
@@ -99,16 +103,20 @@ Note that from table (potentially multiple times) to the wall and back, accelera
 
 The angle of the dice has an impact in a few areas
 
+_Note: Show still shots of the dice in good and bad positions, show video of what happens when they are square and when they are not!_
+
 1. At impact, the more surface area making impact, the more energy is reduced.&#x20;
    1. This slows the dice down and potentially reduces spin
-2. How square was the landing?
+2. How square was the landing (in which direction will they re-launch?)
    1. Cut edge hit perfectly flat?
       1. Direction and axis has a chance to be maintained
-   2. Corner Hit?
+   2. Corner or side Hit?
       1. Complete loss of directional/axis control
+      2. Any non-square hit = randomness
 3. What direction are we hitting the wall?
    1. Flat/Straight? You might have a chance to hit the diamonds squarely
    2. On any angle? The diamonds will impart side spin&#x20;
+      1. If they hit the diamonds on the point or a side vs the underside ... again, you will encounter side-spin which is ... random.
 
 #### Surface Area
 
@@ -116,4 +124,11 @@ The angle of the dice has an impact in a few areas
    1. If you don't land the dice flat, they simply will not slow down in any way you can control
    2. If they hit the diamonds on the point or a side vs the underside ... again, you will encounter side-spin which is ... random.
 
-###
+### Notes
+
+Videos/Clips Needed:
+
+* [ ] Overhead + Far out throws on all surfaces
+  * [ ] Want B-Roll to talk about angles, bounces, etc
+* [ ] Video of the "hits"&#x20;
+* [ ] Slo-Mo of some good rolls from out front and over top

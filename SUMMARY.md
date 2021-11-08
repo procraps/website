@@ -3,6 +3,7 @@
 * [Welcome to Pro Craps](README.md)
 * [^The Pro Craps Method](the-pro-craps-method.md)
 * [Resources](resources.md)
+* [2021 Craps-a-Thon](2021-craps-a-thon.md)
 
 ## Money Management
 
@@ -13,20 +14,22 @@
 
 ## At The Table
 
-## Strategy Building <a href="strategies" id="strategies"></a>
+## Strategy Building
 
-* [✅ Respect the 7](strategies/understanding-the-7.md)
-* [✅ Building a Strategy: Overview](strategies/building.md)
-* [✅ Understanding Exposure](strategies/exposure.md)
-* [✅ Pressing with Purpose](strategies/pressing-with-purpose.md)
-* [🛑 Pressing Methods](strategies/pressing-methods.md)
+* [✅ Respect the 7](strategy-building/understanding-the-7.md)
+* [✅ Building a Strategy: Overview](strategy-building/building.md)
+* [✅ Understanding Exposure](strategy-building/exposure.md)
+* [✅ Pressing with Purpose](strategy-building/pressing-with-purpose.md)
 
-## Strategies <a href="strategies-2" id="strategies-2"></a>
+## Strategies
 
-* [Short Game](strategies-2/short-game.md)
-* [Grinders](strategies-2/grinders.md)
-* [Growth Mindset](strategies-2/growth-mindset.md)
-* [Side Bets](strategies-2/side-bets.md)
+* [Come Ladder](strategies/come-ladder.md)
+* [The Border](strategies/the-border.md)
+* [Hunting Odds](strategies/hunting-odds.md)
+* [Hedgeless Horseman](strategies/hedgeless-horseman.md)
+* [Backwall Lay](strategies/backwall-lay.md)
+* [4/10 Progression](strategies/4-10-progression.md)
+* [Iron Cross Parlay](strategies/iron-cross-parlay.md)
 
 ## Dice Control
 

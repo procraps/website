@@ -4,7 +4,7 @@ description: >-
   have in your rack, where you stand, and when you're up enough to get out!
 ---
 
-# At the table: Rail & Session
+# ✅ At the table: Rail & Session
 
 ### Why
 
@@ -21,12 +21,12 @@ Keep your rack organized, separated into quadrants, each with a purpose
 
 ### Bankroll Section
 
-Here, you keep your session bankroll. 
+Here, you keep your session bankroll.&#x20;
 
 Divide the chips in your bankroll into logical chunks, using either white chips or acrylic lammers to visually separate your chips into sections. The goal here is to be able to look down at your rack and know instantly  and exactly how much bankroll you have left, and how many more shooters you can play on.
 
 * If you're playing a strategy where you have designated a set amount per shooter, each section should be one shooter's worth of chips
-* If you're playing a strategy where you are moving money more fluidly, you'll want to separate your bankroll into color-up values \(5 reds or 4 greens, or 5 blacks, etc\)
+* If you're playing a strategy where you are moving money more fluidly, you'll want to separate your bankroll into color-up values (5 reds or 4 greens, or 5 blacks, etc)
 
 > NEVER put money onto the table from this section!
 
@@ -55,7 +55,7 @@ Load this up with singles and other small chip amounts. It's a good idea to keep
 
 * Dealer Tokes
 * Drink Tips
-* Addng a dollar to pay out to level up \(i.e. $15 for $1 on a winning $10 bet on the 5 or 9\)
+* Addng a dollar to pay out to level up (i.e. $15 for $1 on a winning $10 bet on the 5 or 9)
 * Dropping the occasional Hardway or Horn to cover something
 
 > This is not money you intend to gamble with as part of your ongoing strategy. Use this to get the dealers involved, and to make making change easier, not as a way to press up your active bets.
@@ -75,9 +75,7 @@ As you play, follow these basic guidelines
 
 ### Video
 
-{% embed url="https://youtu.be/Eg\_000BeCRo" %}
-
-
+{% embed url="https://youtu.be/Eg_000BeCRo" %}
 
 
 

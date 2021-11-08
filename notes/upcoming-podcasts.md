@@ -38,17 +38,25 @@ description: What will we be talking about on Fireside Craps?
 ### Just Say No!
 
 * [x] Crapless Craps
-* [ ] Shitty Payouts
+* [ ] Shitty Payouts (30 for 1, etc)
+* [ ] Bouncy Tables
+  * [ ] "The more they roll around the less you stick around."
+  * [ ] "Even if you kiss that wall you can’t stop them."
 * [ ] Pig Vigs
+* [ ] Casinos with an Ante
 * [ ] Roll To Win
 * [ ] 000 Roulette
 * [ ] 6/5 BJ
 * [x] Forced Line Bets
 
-### Trending
+### Trending / Tips
 
 * [ ] Eyeing up the racks
 * [ ] Tracking what you see
+* [ ] Picking a casino and table to play at
+* [ ] Getting your bet on (come in slow or go all in?)
+* [ ] Translate your practice to the table
+  * [ ] Self Talk
 * [x] $25 Tables
 
 ### The world according to John
@@ -66,6 +74,7 @@ description: What will we be talking about on Fireside Craps?
 * [ ] Controlling what you can control
 * [ ] Scouting Tables and Players
 * [ ] Starting up a conversation
+* [ ] I'm not the man I want to be, but thank God I'm not the man I used to be
 
 ###
 
