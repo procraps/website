@@ -1,4 +1,4 @@
-# Episode 2 - Nov 15, 2021
+# ✅ Episode 2 - Nov 15, 2021
 
 ### Story
 
@@ -44,6 +44,6 @@ Roll to Win
 
 ### The world according to John
 
-Discipline: Setting and Reaching Goals
+Raising the bar
 
 This works at the tables and in life.

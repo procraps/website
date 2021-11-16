@@ -75,6 +75,7 @@ description: What will we be talking about on Fireside Craps?
 * [ ] Scouting Tables and Players
 * [ ] Starting up a conversation
 * [ ] I'm not the man I want to be, but thank God I'm not the man I used to be
+* [ ] Raising your bar and having to live up to it (putting yourself at risk)
 
 ###
 

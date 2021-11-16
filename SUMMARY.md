@@ -37,7 +37,7 @@
 * [✅ Framing the Issue](dice-control/framing-the-issue.md)
 * [✅ Goal: 7 Avoidance](dice-control/7-avoidance.md)
 * [✅ Goal: Targeting Numbers](dice-control/targeting-numbers.md)
-* [Epic Randomness](dice-control/epic-randomness.md)
+* [✅ Epic Randomness](dice-control/epic-randomness.md)
 * [Overcoming Randomness](dice-control/landing-physics.md)
 * [The Case Against Dice Control](dice-control/the-dice-control-business.md)
 * [Unpacking the Studies](dice-control/unpacking-the-study.md)
@@ -49,7 +49,7 @@
 ***
 
 * [✅ Episode 1 - Oct 15, 2021](episode-1.md)
-* [Episode 2 - Nov 15, 2021](episode-2-nov-15-2021.md)
+* [✅ Episode 2 - Nov 15, 2021](episode-2-nov-15-2021.md)
 
 ## Notes
 
