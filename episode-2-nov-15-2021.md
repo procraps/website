@@ -32,11 +32,15 @@ Every episode of Fireside Craps is brought to you by Craps Nation. Today, I'd li
 
 * 555 Craps
 
-### Just Say No + What's Trending
+### Just Say No
 
 Forced Line Bets
 
 * If we play into this new BS, they will keep putting it out there
+
+### What's Trending
+
+Roll to Win
 
 ### The world according to John
 
