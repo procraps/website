@@ -30,6 +30,7 @@
 * [Backwall Lay](strategies/backwall-lay.md)
 * [4/10 Progression](strategies/4-10-progression.md)
 * [Iron Cross Parlay](strategies/iron-cross-parlay.md)
+* [The Butterburg](strategies/the-butterburg.md)
 
 ## Dice Control
 
