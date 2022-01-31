@@ -2,7 +2,7 @@
 description: Mechanics, Physics, and Mentality of the Perfect Toss
 ---
 
-# Epic Randomness
+# ✅ Epic Randomness
 
 An awful lot has to go right for a dice controller to get it done, and the casinos aren't making it easy. In fact, if you're trying to control the dice, you're at war with the casino, the rules, table itself, and the very nature of physics.
 
@@ -16,7 +16,7 @@ An awful lot has to go right for a dice controller to get it done, and the casin
 
 > It should be noted, that these measure would not be in place if it were not possible for humans to control the dice.
 
-**Dice Controllers will concede that every throw is random. **Their job is to try and lessen the degree to which things are random by eliminating some of the combinations through technique and physics.
+**Dice Controllers will concede that every throw is random.** Their job is to try and lessen the degree to which things are random by eliminating some of the combinations through technique and physics.
 
 ### A War on Many Fronts
 

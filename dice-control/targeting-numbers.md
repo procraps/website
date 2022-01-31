@@ -8,7 +8,7 @@ description: >-
 
 ### Intentional Shooting
 
-An intentional shooter is exactly that -- someone that throws with the intent of hitting a single number or a number within a small group of expected numbers.  
+An intentional shooter is exactly that -- someone that throws with the intent of hitting a single number or a number within a small group of expected numbers. &#x20;
 
 ### Sniping Numbers or Group Targeting?
 
@@ -18,11 +18,11 @@ We dug deeper and the dice controllers we've spoken to will tell you that they'r
 
 * Favor Horn Numbers,  fail to the 7 and settle on a box $ for the come out rolls
 * Avoid the 7 and establish a "pitch count" or expected roll length (SOR)
-* Cluster box numbers 
+* Cluster box numbers&#x20;
 * Produce "dominant" numbers
 * Perhaps favor hard ways over easy numbers
 
-**They will also all concede that every throw is random. **Their job is to try and lessen the degree to which things are random by eliminating some of the combinations through technique and physics.
+**They will also all concede that every throw is random.** Their job is to try and lessen the degree to which things are random by eliminating some of the combinations through technique and physics.
 
 "You can control everything up to the point at which they leave your hand"
 
@@ -39,7 +39,7 @@ WinCraps examples (simple and quick)
 
 Run a scenario at standard distribution and with the 7 at 5, favoring the appropriate numbers and more-so the hard way versions of the even numbers
 
-**Come Bets** 
+**Come Bets**&#x20;
 
 * Requires numbers are repeated (asserting the set is locking in)
 * No odds -- not about profit, but simply proving that we're getting scoring hits
@@ -56,7 +56,7 @@ Reduce the amount of randomness by hiding some of the 36 combinations
     * George From CY: [https://youtu.be/A1OEkFZTUgE?t=2732](https://youtu.be/A1OEkFZTUgE?t=2732)
     * VDC and CDC: [https://www.youtube.com/watch?v=YGKN2XNt\_\_I\&t=4s](https://www.youtube.com/watch?v=YGKN2XNt\_\_I\&t=4s) (plus others)
 * Keep the dice "On Set" or deviating from the expected set of restricted possibilities
-* Throw types 
+* Throw types&#x20;
   * Backspin (Parr or GTC)
   * Foreward Spin
   * Side Spin (Helicopter)
@@ -73,7 +73,7 @@ Reduce the amount of randomness by hiding some of the 36 combinations
 * 3 Points of Impact
   * Table
   * Diamonds
-  * Table 
+  * Table&#x20;
 * Different surfaces, curves, lengths, rules
 
 Show some slow motion showing the landings skittering and mayhem and leave that as a teaser for the epic randomness video

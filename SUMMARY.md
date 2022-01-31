@@ -25,7 +25,7 @@
 
 * [Come Ladder](strategies/come-ladder.md)
 * [The Border](strategies/the-border.md)
-* [Hunting Odds](strategies/hunting-odds.md)
+* [The Odds Maker](strategies/the-odds-maker.md)
 * [Hedgeless Horseman](strategies/hedgeless-horseman.md)
 * [Backwall Lay](strategies/backwall-lay.md)
 * [4/10 Progression](strategies/4-10-progression.md)

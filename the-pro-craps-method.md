@@ -128,7 +128,7 @@ No random prop or side bets when you're "feeling it" unless you've budgeted for 
 
 Even if you're not a "Dice Controller" or "Influencer" ... even if you think that's impossible ... practice your throws.&#x20;
 
-Yes. **Every throw is random. **But some are more random than others, and you can give yourself a far better shot at extending rolls if you develop a soft, consistent shot that doesn't fly all over the board. Contrary to the naysayers ... running your dice off of chip stacks and people's hands does make a scientific difference. The more times a "match" to the landed die shows, the more chances it has to match up. The less violent your throw, the less rotations and skittering you get off the backwall, the better your shot is.
+Yes. **Every throw is random.** But some are more random than others, and you can give yourself a far better shot at extending rolls if you develop a soft, consistent shot that doesn't fly all over the board. Contrary to the naysayers ... running your dice off of chip stacks and people's hands does make a scientific difference. The more times a "match" to the landed die shows, the more chances it has to match up. The less violent your throw, the less rotations and skittering you get off the backwall, the better your shot is.
 
 And if you can actually influence the dice, even a little bit, that effect can be pretty drastic.
 

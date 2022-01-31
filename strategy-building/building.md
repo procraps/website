@@ -28,14 +28,14 @@ Unlike other table games, where strategy is pretty much done by following a pres
 2. **Strong against short rolls (<4)**\
    80% of rolls are only 4 numbers after the point. \
    Just 2.7-3.25 of those are box numbers!
-3. **Profits on long rolls     **
+3. **Profits on long rolls**    &#x20;
 4. **Responds well to trends**
-5. **Is tuned for a given type of shooter: **\
+5. **Is tuned for a given type of shooter:** \
    random\
    rhythm\
    controlled\
    yourself
-6. **Has a specific goal, purpose, and play type: **\
+6. **Has a specific goal, purpose, and play type:** \
    grind\
    party\
    short game\
@@ -44,14 +44,14 @@ Unlike other table games, where strategy is pretty much done by following a pres
 
 ### The 3 Major Components of a Craps Strategy
 
-1. **Coverage: **What numbers/scenarios are you betting on\
+1. **Coverage:** What numbers/scenarios are you betting on\
    ****There are common ones: Inside, Outside, Across, Iron Cross, Field\
    Using Math or Trends
-2. **Exposure: **How can you get beat?\
+2. **Exposure:** How can you get beat?\
    Depth, Length, Width, \
    Can you shift exposure elsewhere?\
    Can/Should you hedge?
-3. **Spread: **How much are you betting\
+3. **Spread:** How much are you betting\
    ****Minimum, 2x, Greens, Blacks\
    What are you going out with, per-shooter
 4. **How will you handle your wins**\
